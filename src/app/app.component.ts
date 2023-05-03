@@ -1,10 +1,11 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { MatButtonModule } from '@angular/material/button';
-import { MatIconModule } from '@angular/material/icon';
+
+import { FooterComponent } from './footer/footer.component';
+import { MainComponent } from './main/main.component';
 
 @Component({
-  imports: [CommonModule, MatButtonModule, MatIconModule],
+  imports: [CommonModule, FooterComponent, MainComponent],
   selector: 'app-root',
   standalone: true,
   styleUrls: ['./app.component.css'],
