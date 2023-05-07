@@ -1,2 +1,8 @@
-<!-- <fa-icon *ngFor="let icon of icons" [icon]="icon"></fa-icon> -->
-<mat-icon fontSet="fa-brands" fontIcon="fa-instagram"></mat-icon>
+<!-- <mat-icon fontSet="fa-brands" fontIcon="fa-instagram"></mat-icon> -->
+<ul>
+  <li *ngFor="let icon of socialIcons">
+    <a>
+      <mat-icon [fontIcon]="'fa-' + icon" fontSet="fa-brands"></mat-icon>
+    </a>
+  </li>
+</ul>
