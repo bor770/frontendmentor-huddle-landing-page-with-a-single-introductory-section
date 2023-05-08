@@ -1,8 +1,15 @@
 :host {
   background-image: url(../assets/images/bg-mobile.svg);
   background-repeat: no-repeat;
+  color: white;
   height: 50rem;
-  padding-inline: 10.667%;
+  padding: 2rem 9.333%;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 3.5rem;
+  text-align: left;
 }
 
 img {

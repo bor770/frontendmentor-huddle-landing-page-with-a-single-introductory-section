@@ -1,0 +1,20 @@
+img {
+  margin-bottom: 3.3rem;
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.49rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 1.2rem;
+}
+
+.register {
+  font-size: 0.8rem;
+}
