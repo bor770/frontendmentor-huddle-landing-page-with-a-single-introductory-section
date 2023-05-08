@@ -20,8 +20,9 @@ html {
 }
 
 body {
+  align-items: center;
   background-color: var(--color-violet);
-  background-image: url(assets/images/bg-mobile.svg);
+  display: flex;
   font-family: "Open Sans", Roboto, "Helvetica Neue", sans-serif;
   margin: 0;
 }
