@@ -6,7 +6,6 @@ img {
 h1 {
   font-family: "Poppins", sans-serif;
   font-size: 1.49rem;
-  font-weight: 600;
   margin-bottom: 1rem;
 }
 
@@ -19,4 +18,9 @@ p {
   background-color: white;
   color: var(--color-violet);
   font-size: 0.8rem;
+}
+
+.register:hover {
+  background-color: var(--color-soft-magenta);
+  color: white;
 }
