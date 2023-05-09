@@ -16,5 +16,7 @@ p {
 }
 
 .register {
+  background-color: white;
+  color: var(--color-violet);
   font-size: 0.8rem;
 }

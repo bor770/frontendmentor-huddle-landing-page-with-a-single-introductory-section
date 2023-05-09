@@ -2,6 +2,8 @@
   background-image: url(../assets/images/bg-mobile.svg);
   background-repeat: no-repeat;
   color: white;
+  display: flex;
+  flex-direction: column;
   height: 50rem;
   padding: 2rem 9.333%;
   text-align: center;
@@ -14,4 +16,8 @@ header {
 
 img {
   width: 8rem;
+}
+
+footer {
+  margin-top: auto;
 }

@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  gap: 4.918%;
+  justify-content: center;
+  list-style: none;
+}
+
+.icon-link {
+  border: 1px solid white;
+  border-radius: 50%;
+}
