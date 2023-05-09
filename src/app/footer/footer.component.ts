@@ -11,5 +11,5 @@ import { MatIconModule } from '@angular/material/icon';
   templateUrl: './footer.component.html',
 })
 export class FooterComponent {
-  socialIcons = [`facebook`, `twitter`, `instagram`];
+  socialIcons = [`facebook-f`, `twitter`, `instagram`];
 }
