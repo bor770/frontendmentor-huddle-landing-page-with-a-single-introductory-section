@@ -22,3 +22,20 @@ img {
 footer {
   margin-top: auto;
 }
+
+@media (min-width: 90rem) {
+  :host {
+    background-image: url(../assets/images/bg-desktop.svg);
+    padding: 3.35rem 5.555% 2.5rem 5%;
+    text-align: left;
+    width: 100%;
+  }
+
+  header {
+    margin-bottom: 5.1rem;
+  }
+
+  img {
+    width: 13.4rem;
+  }
+}

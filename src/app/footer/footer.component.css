@@ -13,3 +13,10 @@ ul {
   border-color: var(--color-soft-magenta);
   color: var(--color-soft-magenta);
 }
+
+@media (min-width: 90rem) {
+  ul {
+    gap: 1.55%;
+    justify-content: flex-end;
+  }
+}
