@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "frontendmentor-huddle-landin": {
+      "hosting": {
+        "huddle-landing-page-with-a-single-introductory-section": [
+          "frontendmentor-huddle-landin"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "frontendmentor-huddle-landin"
+  }
+}

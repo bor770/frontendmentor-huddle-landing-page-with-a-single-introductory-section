@@ -44,3 +44,8 @@ Thumbs.db
 # Frontendmentor
 /starter
 
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
